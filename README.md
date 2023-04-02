@@ -1,1 +1,3 @@
 # Diabetes-Prediction-Using-ML
+Now-a-days due to hectic schedules and poor diet people do not concentrate on their health, this leads to diabetes disease which may cause several fatal health issues like heart attack, strokes, kidney failure, nerve damage etc. Diabetes can be effectively managed when caught early with high accuracy. In such case the patient is required to visit a diagnostic center, to get their reports after consultation. Due to every time, they must invest their time and currency. The aim of this analysis is to develop a system which might predict the diabetic risk level of a patient with a better accuracy. Machine Learning (ML) approaches are very effective to early detection and prediction of diabetes. 
+
